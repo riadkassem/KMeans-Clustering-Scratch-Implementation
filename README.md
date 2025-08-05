@@ -53,14 +53,6 @@ You can install them via:
 pip install pandas numpy matplotlib seaborn
 ```
 
-## 📷 Sample Output
-
-The notebook contains plotted clusters like this:
-
-```
-[ Customer Data Scatterplot ]
-```
-
 ## 🧾 License
 
 This project is for educational purposes and is not licensed for production use. Attribution is appreciated.
